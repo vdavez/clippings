@@ -7,5 +7,5 @@ Given a URL, fetch the raw HTML. Then, using [Readability](https://github.com/mo
 ## Usage
 
 ```
-node main.js move_fast.epub https://launchdarkly.com/blog/the-fallacy-of-move-fast-and-break-things/
+node main.js run move_fast.epub https://launchdarkly.com/blog/the-fallacy-of-move-fast-and-break-things/
 ```

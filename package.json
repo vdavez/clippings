@@ -15,7 +15,7 @@
   "author": "V. David Zvenyach <dave@esq.io>",
   "license": "blueoak-1.0",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.27.2",
     "commander": "^5.0.0",
     "dompurify": "^2.0.8",
     "jsdom": "^16.2.1",
@@ -23,7 +23,7 @@
     "remarkable-typescript": "^1.0.5"
   },
   "devDependencies": {
-    "jest": "^25.2.4",
+    "jest": "^28.1.0",
     "moxios": "^0.4.0"
   }
 }
